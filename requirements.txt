@@ -1,0 +1,5 @@
+discord.py==0.16.12
+import datetime==0.16.2
+import time==0.16.2
+import random==0.16.2
+import os==0.16.2
